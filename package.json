@@ -1,0 +1,43 @@
+{
+  "name": "google-login-gsi",
+  "version": "1.0.0",
+  "description": "Google Sign-in with Google Identity Service",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamlehoan/google-login-gsi.git"
+  },
+  "keywords": [
+    "google",
+    "signin",
+    "google-signin",
+    "google",
+    "oauth",
+    "google",
+    "oauth2",
+    "google",
+    "login",
+    "google-login",
+    "oauth2",
+    "gsi",
+    "google",
+    "identity",
+    "google",
+    "identity",
+    "service",
+    "google",
+    "identity",
+    "services",
+    "vue",
+    "vuejs",
+    "react",
+    "reactjs",
+    "angular"
+  ],
+  "author": "phamlehoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamlehoan/google-login-gsi/issues"
+  },
+  "homepage": "https://github.com/phamlehoan/google-login-gsi#readme"
+}
