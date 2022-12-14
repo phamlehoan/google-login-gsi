@@ -1,6 +1,6 @@
 # Google Login GSI
 
-[![npm](https://img.shields.io/npm/v/vue3-google-signin)](https://www.npmjs.com/package/vue3-google-signin) ![NPM](https://img.shields.io/npm/l/vue3-google-signin)
+[![npm](https://img.shields.io/npm/v/google-login-gsi)](https://www.npmjs.com/package/google-login-gsi) ![NPM](https://img.shields.io/npm/l/google-login-gsi)
 
 Use Google Identity Services with your Javascript App easily
 
